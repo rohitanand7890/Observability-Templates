@@ -21,6 +21,13 @@ st.markdown(
     - #Todo: Sankey  
 
     #### DORA metric (TBD)
+    #### Security Issues
+    #### Bug
+    #### A/B Testing template
+    #### Page performance
+    #### Code coverage/ 
+
+
     **👈 Select a Template from the sidebar** 
     ### 
 """
