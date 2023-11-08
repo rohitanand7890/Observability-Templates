@@ -5,3 +5,5 @@ plotly
 altair
 wordcloud
 matplotlib
+datetime
+timedelta
